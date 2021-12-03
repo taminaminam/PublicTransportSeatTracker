@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fahrzeugnummer">Vehicle No.</string>
+    <string name="sitzplatz">Seat</string>
+    <string name="datum">Date</string>
+    <string name="hinzufuegen">Add</string>
+    <string name="noch_nie_gefahren">\"You have never been on the vehicle \"%s\" before.\"</string>
+    <string name="letzte_fahrt">At your last ride with the vehicle \"%s\" at the %s you were sitting on the seat \"%s\".</string>
+</resources>
