@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PublicTransportSeatTracker</string>
+    <string name="fahrzeugnummer">Fahrzeugnummer</string>
+    <string name="sitzplatz">Sitzplatz</string>
+    <string name="datum">Datum</string>
+    <string name="hinzufuegen">Hinzufügen</string>
+    <string name="noch_nie_gefahren">\"Du bist noch nie mit dem Fahrzeug \"%s\" gefahren.\"</string>
+    <string name="letzte_fahrt">Bei deiner letzten Fahrt im Fahrzeug \"%s\" am %s saßt du auf Sitzplatz \"%s\".</string>
+</resources>
