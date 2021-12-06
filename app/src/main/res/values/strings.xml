@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PublicTransportSeatTracker</string>
+    <string name="app_name" translatable="false">PublicTransportSeatTracker</string>
     <string name="fahrzeugnummer">Fahrzeugnummer</string>
     <string name="sitzplatz">Sitzplatz</string>
     <string name="datum">Datum</string>
